@@ -4,4 +4,4 @@ Py dev 🐍
 VR enjoyer 🖥️
 ASL enjoyer 🤟
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StellrVR)](https://github.com/StellrVR)
+![StellrVR's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StellrVR&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
