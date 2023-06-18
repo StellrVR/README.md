@@ -4,4 +4,4 @@ Py dev 🐍
 VR enjoyer 🖥️
 ASL enjoyer 🤟
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StellrVR&hide=jupyter%20notebook&layout=compact">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StellrVR)](https://github.com/StellrVR)
