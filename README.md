@@ -21,5 +21,5 @@
 
 <div>
   <h3> 🌐 Connect with Me </h3>
-    [My Website](https://lonelyjuly.online)
+    <a href="https://lonelyjuly.online">My Website</a>
 </div>
