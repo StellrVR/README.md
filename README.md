@@ -8,4 +8,4 @@ ASL enjoyer 🤟
 
 ![StellrVR's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StellrVR&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{StellrVR}1212%2Fhit-counter" />
