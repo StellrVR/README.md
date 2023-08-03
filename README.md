@@ -21,5 +21,5 @@
 
 <div>
   <h3> 🌐 Connect with Me </h3>
-    <a href="https://lonelyjuly.online">My Website</a>
+    <a href="https://lonelyjuly.online" target="_blank">My Website</a>
 </div>
